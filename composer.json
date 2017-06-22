@@ -59,6 +59,7 @@
         "filp/whoops": "^2.1",
         "fzaninotto/faker": "^1.6",
         "graham-campbell/testbench-core": "^1.1",
+        "heroku/heroku-buildpack-php": "^121.0",
         "laravel/browser-kit-testing": "^1.0",
         "mockery/mockery": "0.9.5",
         "nikic/php-parser": "^3.0",
